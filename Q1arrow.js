@@ -1,0 +1,1 @@
+message = () => window.alert("Bom dia, mundo!!");
